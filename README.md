@@ -78,5 +78,5 @@ This project compares **semantic segmentation** and **object detection** methods
 ## ▶️ How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/food-detection-yolo-deeplab.git
-   cd food-detection-yolo-deeplab
+   git clone https://github.com/saisrikolanu/Comparative-Evaluation-of-YOLOv8-and-DeepLabV3-for-Food-Detection-and-Segmentation.git
+   cd Comparative-Evaluation-of-YOLOv8-and-DeepLabV3-for-Food-Detection-and-Segmentation
